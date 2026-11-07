@@ -1,0 +1,2 @@
+# CEE292-PINNs-Project
+PINNs_Inverse_Learning_Parameters_from_Thermo-Mechnical_Fatigue_Test
